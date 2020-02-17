@@ -34,6 +34,7 @@ The Objective of the Internship is to develop a pipeline that collects data from
 
 
 # Project Output:
+## Video Demonstration as Proof of Concept:
 [![Proof of Concept](https://github.com/E-B-Manohar/IoT-Internship/blob/master/Proof%20of%20Concept.jpeg)](https://youtu.be/4CjHagM8I0E)
 
 
