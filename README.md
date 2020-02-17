@@ -33,10 +33,14 @@ The Objective of the Internship is to develop a pipeline that collects data from
 ![](https://github.com/E-B-Manohar/IoT-Internship/blob/master/23.png)
 
 
-![](https://youtu.be/4CjHagM8I0E)
-
 # Project Output:
-https://youtu.be/4CjHagM8I0E
+[![Proof of Concept](https://github.com/E-B-Manohar/IoT-Internship/blob/master/Proof%20of%20Concept.jpeg)](https://youtu.be/4CjHagM8I0E)
+
+
+
 
 ## CASE STUDY Reference:
 https://insights.insofe.com/index.php/2019/03/22/behaviwear-a-wearable-for-detecting-and-classifying-automobile-driver-behaviour/
+
+https://youtu.be/4CjHagM8I0E
+
